@@ -53,29 +53,31 @@ This project focuses strictly on **defensive cybersecurity** and includes:
 
 ## 📁 Repository Structure
 
+```text
 Cybersecurity-Infrastructure_Threat-Detection-Hardening-Monitoring/
 │
 ├── README.md
 │
 ├── architecture/
-│ └── system-architecture.md
-│ └── diagrams/
-│    └── system-architecture.png
+│   ├── system-architecture.md
+│   └── diagrams/
+│       └── Cybersecurity-infrastructure.png
 │
 ├── iam/
-│ └── identity-access-management.md
+│   └── identity-access-management.md
 │
 ├── hardening/
-│ └── system-hardening.md
+│   └── system-hardening.md
 │
 ├── monitoring/
-│ └── logging-and-monitoring.md
+│   └── logging-and-monitoring.md
 │
 ├── threat-model/
-│ └── threat-scenarios.md
+│   └── threat-scenarios.md
 │
 └── incident-response/
-└── response-playbooks.md
+    └── response-playbooks.md
+
 
 
 Each directory focuses on a specific cybersecurity domain and documents **why** certain security controls are required and **how** they reduce risk.
