@@ -50,36 +50,6 @@ This project focuses strictly on **defensive cybersecurity** and includes:
 - Offensive hacking activities
 
 ---
-
-## 📁 Repository Structure
-
-```text
-Cybersecurity-Infrastructure_Threat-Detection-Hardening-Monitoring/
-│
-├── README.md
-│
-├── architecture/
-│   ├── system-architecture.md
-│   └── diagrams/
-│       └── Cybersecurity-infrastructure.png
-│
-├── iam/
-│   └── identity-access-management.md
-│
-├── hardening/
-│   └── system-hardening.md
-│
-├── monitoring/
-│   └── logging-and-monitoring.md
-│
-├── threat-model/
-│   └── threat-scenarios.md
-│
-└── incident-response/
-    └── response-playbooks.md
-
-
-
 Each directory focuses on a specific cybersecurity domain and documents **why** certain security controls are required and **how** they reduce risk.
 
 ---
@@ -118,5 +88,34 @@ This project was created as part of a personal learning journey in cybersecurity
 A high-level system architecture diagram is provided in the architecture section.
 
 
+## 📁 Repository Structure
+
+```text
+Cybersecurity-Infrastructure_Threat-Detection-Hardening-Monitoring/
+│
+├── README.md
+│
+├── architecture/
+│   ├── system-architecture.md
+│   └── diagrams/
+│       └── Cybersecurity-infrastructure.png
+│
+├── iam/
+│   └── identity-access-management.md
+│
+├── hardening/
+│   └── system-hardening.md
+│
+├── monitoring/
+│   └── logging-and-monitoring.md
+│
+├── threat-model/
+│   └── threat-scenarios.md
+│
+└── incident-response/
+    └── response-playbooks.md
+
+
 ## 📝 Disclaimer
 This project is intended **strictly for educational purposes** and follows ethical cybersecurity practices.
+
